@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hadi Abdul
+
+**'Innovation Through Passion'**
+
+My passion for programming wasn't powered by a degree but instead by an insatiable desire to turn ideas into digital reality. I've spent countless hours, often at the expense of my so-called "free time," diving deep into the world of code. While pursuing a bachelor's degree in Biology at the University of California, Riverside, I discovered that my true calling was not in medical school but in the boundless world of development. This journey has led me to transition my focus from medicine to creating and innovating as a developer. All thanks to a game platform I played in which I became obsessed powering imagination and creating in.
+
+I build the digital world one step at a time, focusing on game development, programming, and scientific research. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+
 
 <!--
 **hadiv2/hadiv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
