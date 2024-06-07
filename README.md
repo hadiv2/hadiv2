@@ -4,7 +4,7 @@
 
 My passion for programming wasn't powered by a degree but instead by an insatiable desire to turn ideas into digital reality. I've spent countless hours, often at the expense of my so-called "free time," diving deep into the world of code. While pursuing a bachelor's degree in Biology at the University of California, Riverside, I discovered that my true calling was not in medical school but in the boundless world of development. This journey has led me to transition my focus from medicine to creating and innovating as a developer. All thanks to a game platform I played in which I became obsessed with powering imagination and creating.
 
-## My absolute favorite quote is:
+### My absolute favorite quote is:
 
 "Life can be so much broader, once you discover one simple fact, and that is that everything around you that you call 'life' was made up by people who were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use" - Steve Jobs
 
