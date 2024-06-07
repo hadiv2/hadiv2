@@ -8,6 +8,9 @@ My passion for programming wasn't powered by a degree but instead by an insatiab
 
 "Life can be so much broader, once you discover one simple fact, and that is that everything around you that you call 'life' was made up by people who were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use" - Steve Jobs
 
+I have completed several game projects that I would love to showcase. Unfortunately, I cannot publicly share the code for these projects, but I am more than willing to discuss and go over them with potential employers.
+
+
 <!--
 **hadiv2/hadiv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
